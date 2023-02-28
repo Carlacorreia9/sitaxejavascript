@@ -11,5 +11,15 @@ console.log(typeof (nome));
 
 //
 /* var funcao = function() {}
-console.log(typeof funcao);
+console.log(typeof funcao);*/
 
+var variavel = 'carla';
+variavel = 'correia';
+console.log(variavel);
+
+
+let variavel2 = 'carla';
+console.log(variavel2);
+
+const constante ='lima';
+console.log(constante);
